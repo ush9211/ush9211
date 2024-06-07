@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Seymour+One&pause=1000&color=F7AF60&center=true&vCenter=true&random=false&width=435&lines=A+passionate+web+developer+from+South+Korea)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Seymour+One&size=23&pause=1000&color=F7933F&random=false&width=800&lines=A+passionate+Web+Developer+from+South+Korea)](https://git.io/typing-svg)
 
 <br/>
 
