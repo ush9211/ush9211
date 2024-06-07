@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="포트폴리오 사이트">
-    <img src="" alt="포트폴리오 사이트">
+    🐥
   </a>
 </h1>
 
@@ -11,7 +11,6 @@
 <br/>
 
 <div align="center">
-  <p>About me 🐥:</p>
   <p>I am a web developer who is just starting to branch out...🐣</p>
   <p>I completed the Java developer course at ezen Computer Academy.</p>
   <p>However, I was very interested in other languages, <br/>
@@ -50,7 +49,7 @@
   </a>
 </div>
 
- 
+[![GitHub Streak](https://streak-stats.demolab.com?user=ush9211&theme=travelers-theme)](https://git.io/streak-stats)
  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=footer" />
