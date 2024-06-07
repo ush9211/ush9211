@@ -2,11 +2,11 @@
 
 <h1 align="center">
   <a href="포트폴리오 사이트">
-    <img src="" alt="">
+    <img src="" alt="포트폴리오 사이트">
   </a>
 </h1>
 
-<h3 align="center" style="color:orange">A passionate software developer from South Korea</h3>
+<h3 align="center">A passionate software developer from South Korea</h3>
 
 <br/>
 
@@ -21,7 +21,8 @@
 
 <br/>
 
-<div align="center">
+<div>
+  <p>About me 🐥:</p>
   <p>🌱 I’m currently learning Backend Development, Frontend Web Development & Android Development.</p>
   <p>👯 I’m looking to collaborate with Fullstack Web and Android Developers.</p>
   <p>🤔 I’m looking for help with Open source Contribution.</p>
