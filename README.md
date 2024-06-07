@@ -6,9 +6,9 @@
   </a>
 </h1>
 
-<div align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Seymour+One&size=23&pause=1000&color=F7933F&random=false&width=800&lines=A+passionate+Web+Developer+from+South+Korea)](https://git.io/typing-svg)
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Seymour+One&size=23&pause=1000&color=F7933F&center=true&vCenter=true&random=false&width=800&lines=A+passionate+Web+Developer+from+South+Korea)](https://git.io/typing-svg)
+
 
 <br/>
 
