@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate software developer from South Korea</h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Seymour+One&pause=1000&color=F7AF60&center=true&vCenter=true&random=false&width=435&lines=A+passionate+web+developer;from+South+Korea)](https://git.io/typing-svg)
 
 <br/>
 
@@ -48,8 +48,12 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,mysql,vscode,spring,eclipse,docker,git"
   </a>
 </div>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ush9211&theme=travelers-theme)](https://git.io/streak-stats)
- 
+<br/>
+<hr/>
+<br/>
+<div align="center">
+  [![GitHub Streak](https://streak-stats.demolab.com?user=ush9211&theme=travelers-theme)](https://git.io/streak-stats)
+</div>
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=footer" />
