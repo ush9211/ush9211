@@ -53,9 +53,7 @@
 <br/>
 <hr/>
 <br/>
-<div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=ush9211&theme=travelers-theme)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ush9211&theme=travelers-theme)](https://git.io/streak-stats)
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=footer" />
