@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-<h3 align="center" color:"orange">A passionate software developer from South Korea</h3>
+<h3 align="center" style="color:orange">A passionate software developer from South Korea</h3>
 
 <br/>
 
