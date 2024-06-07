@@ -11,27 +11,28 @@
 <br/>
 
 <div align="center">
-  About me 🐥:
-  I am a web developer who is just starting to branch out...🐣
-  I completed the Java developer course at ezen Computer Academy.
-  However, I was very interested in other languages, so I taught myself several languages, including Java, nodejs, react, and something more.
-  I will become a developer who always works hard!! 🐤=3
+  <p>About me 🐥:</p>
+  <p>I am a web developer who is just starting to branch out...🐣</p>
+  <p>I completed the Java developer course at ezen Computer Academy.</p>
+  <p>However, I was very interested in other languages, <br/>
+    so I taught myself several languages, including Java, nodejs, react, and something more.</p>
+  <p>I will become a developer who always works hard!! 🐤=3</p>
 </div>
 
 <br/>
 
 <div align="center">
-  🌱 I’m currently learning Backend Development, Frontend Web Development & Android Development.
-  👯 I’m looking to collaborate with Fullstack Web and Android Developers.
-  🤔 I’m looking for help with Open source Contribution.
-  😄 Pronouns: She/Her
+  <p>🌱 I’m currently learning Backend Development, Frontend Web Development & Android Development.</p>
+  <p>👯 I’m looking to collaborate with Fullstack Web and Android Developers.</p>
+  <p>🤔 I’m looking for help with Open source Contribution.</p>
+  <p>😄 Pronouns: She/Her</p>
 </div>
 
 <br/>
 
 <div align="center">
   <a href="mailto:pg.ush9211@gmail.com">
-    지메일 뱃지
+    <img src="https://skillicons.dev/icons?i=gmail">
   </a>
 </div>
 
