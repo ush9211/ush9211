@@ -20,6 +20,12 @@
   <p>I will become a developer who always works hard!! 🐤=3</p>
 </div>
 
+<div align="center">
+  <a href="mailto:pg.ush9211@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail">
+  </a>
+</div>
+
 <br/>
 
 <div>
@@ -36,16 +42,11 @@
 
 <br/>
 
-<div align="center">
-  <a href="mailto:pg.ush9211@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail">
-  </a>
-</div>
-
 <hr/>
 
 <h2 align="center">🛠 Languages-Frameworks-Tools 🛠</h2>
 
+<br/>
 <br/>
 
 <div align="center">
@@ -57,6 +58,7 @@
 </div>
 <br/>
 <br/>
+<br/>
 <hr/>
 
 <h2 align="center">🧶 My Contributions 🧶</h2>
@@ -65,6 +67,7 @@
 
 <img src="https://github.com/ush9211/ush9211/blob/output/github-contribution-grid-snake.svg"/>
 
+<br/>
 <br/>
 <br/>
 
