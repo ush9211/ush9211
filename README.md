@@ -14,9 +14,9 @@
 
 <div align="center">
   <p>I am a web developer who is just starting to branch out...🐣</p>
-  <p>I completed the Java developer course at ezen Computer Academy.</p>
-  <p>However, I was very interested in other languages, <br/>
-    so I taught myself several languages, including Java, nodejs, react, and something more.</p>
+  <p>I completed the full-stack developer course at ezen Computer Academy.</p>
+  <p>However, I am very interested in development languages,<br/>
+    so I am currently studying more on my own.</p>
   <p>I will become a developer who always works hard!! 🐤=3</p>
 </div>
 
@@ -24,7 +24,7 @@
 
 <div>
   <p>About me 🐥:</p>
-  <p>🌱 I’m currently learning Backend Development, Frontend Web Development & Android Development.</p>
+  <p>🌱 I’m currently learning Backend Development, Frontend Web Development.</p>
   <p>👯 I’m looking to collaborate with Fullstack Web and Android Developers.</p>
   <p>🤔 I’m looking for help with Open source Contribution.</p>
   <p>😄 Pronouns: She/Her</p>
