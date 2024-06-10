@@ -54,7 +54,7 @@
 <br/>
 <hr/>
 
-<h2 align="center">🛠 Languages-Frameworks-Tools 🛠</h2>
+<h2 align="center">🧶 My Contributions 🧶</h2>
 
 <br/>
 
