@@ -54,7 +54,7 @@
 <br/>
 <hr/>
 <br/>
-[![GitHub Streak](https://streak-stats.demolab.com?user=ush9211&theme=travelers-theme)](https://git.io/streak-stats)
+![snake gif](https://github.com/ush9211/ush9211/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=footer" />
