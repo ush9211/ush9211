@@ -1,4 +1,4 @@
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=header" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=F7933F&height=150&section=header" />
 
 <h1 align="center">
   <a href="포트폴리오 사이트">
@@ -104,4 +104,4 @@
 <br/>
 <br/>
 
-<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=footer" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=F7933F&height=150&section=footer" />
