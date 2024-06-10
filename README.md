@@ -53,8 +53,14 @@
 </div>
 <br/>
 <hr/>
+
+<h2 align="center">🛠 Languages-Frameworks-Tools 🛠</h2>
+
 <br/>
-![snake gif](https://github.com/ush9211/ush9211/blob/output/github-contribution-grid-snake.svg)
+
+
+
 <br/>
+
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=footer" />
