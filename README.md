@@ -68,7 +68,22 @@
 
 <p align="center">
   <a href="https://github.com/${ush9211}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ush9211&layout=compact&show_icons=${true}&show_owner=${true}&hide_title=${true}&theme=${nord}&hide=${false}" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ush9211&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=true" />
+  </a>
+</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+
+<h2 align="center">🎇 My Git Stats 🎇</h2>
+
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/${ush9211}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ush9211&hide=true&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
   </a>
 </p>
 <br/>
