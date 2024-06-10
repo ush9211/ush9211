@@ -38,7 +38,7 @@
 
 <br/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ush9211&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ush9211&show_icons=true&theme=great-gatsby)
 
 <br/>
 
