@@ -46,7 +46,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,github,firebase,docker,figma,aws">
+    <img src="https://skillicons.dev/icons?i=java,javascript,html,css,github,firebase,rinux,figma,aws">
     <img src="https://skillicons.dev/icons?i=react,nodejs,bootstrap,mysql,vscode,spring,eclipse,docker,git"
   </a>
 </div>
