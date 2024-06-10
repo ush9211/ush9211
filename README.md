@@ -54,6 +54,15 @@
 <br/>
 <hr/>
 
+<h2 align="center">🎇 My Stats 🎇</h2>
+
+<br/>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ush9211&show_icons=true&theme=radical)
+
+<br/>
+<hr/>
+
 <h2 align="center">🧶 My Contributions 🧶</h2>
 
 <br/>
