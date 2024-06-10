@@ -61,6 +61,21 @@
 <br/>
 <hr/>
 
+<h2 align="center">✨ My Most Used Languages ✨</h2>
+
+<br/>
+<br/>
+
+<p align="center">
+  <a href="https://github.com/${ush9211}">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=${ush9211}&layout=compact&show_icons=${true}&show_owner=${true}&hide_title=${true}&theme=${nord}&hide=${false}" />
+  </a>
+</p>
+<br/>
+<br/>
+<br/>
+<hr/>
+
 <h2 align="center">🧶 My Contributions 🧶</h2>
 
 <br/>
