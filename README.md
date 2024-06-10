@@ -68,7 +68,7 @@
 
 <p align="center">
   <a href="https://github.com/${ush9211}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ush9211&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=nord&hide=true" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ush9211&layout=compact&show_icons=true&show_owner=true&hide_title=true&theme=great-gatsby&hide=true" />
   </a>
 </p>
 <br/>
@@ -83,7 +83,7 @@
 
 <p align="center">
   <a href="https://github.com/${ush9211}">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ush9211&hide=true&hide_title=true&show_icons=true&include_all_commits=true&theme=nord" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=ush9211&hide=true&hide_title=true&show_icons=true&include_all_commits=true&theme=great-gatsby" />
   </a>
 </p>
 <br/>
@@ -95,7 +95,11 @@
 
 <br/>
 
-<img src="https://github.com/ush9211/ush9211/blob/output/github-contribution-grid-snake.svg"/>
+<p align="center">
+  <a href="https://github.com/${ush9211}">
+    <img src="https://github.com/ush9211/ush9211/blob/output/github-contribution-grid-snake.svg"/>
+  </a>
+</p>
 
 <br/>
 <br/>
