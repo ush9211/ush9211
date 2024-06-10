@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=header" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=header" />
 
 <h1 align="center">
   <a href="포트폴리오 사이트">
@@ -20,11 +20,7 @@
   <p>I will become a developer who always works hard!! 🐤=3</p>
 </div>
 
-<div align="center">
-  <a href="mailto:pg.ush9211@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail">
-  </a>
-</div>
+
 
 <br/>
 
@@ -37,11 +33,16 @@
 </div>
 
 <br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ush9211&show_icons=true&theme=great-gatsby)
+<br/>
+<div align="center">
+  <a href="mailto:pg.ush9211@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail">
+  </a>
+</div>
 
 <br/>
-
+<br/>
+<br/>
 <hr/>
 
 <h2 align="center">🛠 Languages-Frameworks-Tools 🛠</h2>
@@ -105,4 +106,4 @@
 <br/>
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=footer" />
+<img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=footer" />
