@@ -32,6 +32,10 @@
 
 <br/>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ush9211&show_icons=true&theme=radical)
+
+<br/>
+
 <div align="center">
   <a href="mailto:pg.ush9211@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail">
@@ -52,14 +56,6 @@
   </a>
 </div>
 <br/>
-<hr/>
-
-<h2 align="center">🎇 My Stats 🎇</h2>
-
-<br/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ush9211&show_icons=true&theme=radical)
-
 <br/>
 <hr/>
 
@@ -70,6 +66,6 @@
 <img src="https://github.com/ush9211/ush9211/blob/output/github-contribution-grid-snake.svg"/>
 
 <br/>
-
+<br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffa500&height=150&section=footer" />
